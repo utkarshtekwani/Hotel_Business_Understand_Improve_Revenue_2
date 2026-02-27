@@ -1,4 +1,4 @@
-**Slicers such as for hotel type , month, booking channel, room_id are common across all reports. 
+# Hotel Business Understand Improve Revenue
 
 # Data Modelling
 1) changed data types 
@@ -107,3 +107,6 @@ Approach :
 2) total revenue generated is 32.88M
 3) the high upsell bookings are 3K 
 4) the weekend stay is making the most revenue and also business class is the leading class
+
+
+Note - **Slicers such as for hotel type , month, booking channel, room_id are common across all reports. 
